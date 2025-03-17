@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Erick!
 
-I'm a frontend developer with over 4 years of experience, passionate about creating intuitive and efficient interfaces. I love working with modern technologies and building solutions that make a positive impact. 🚀
+I'm a web developer with over 4 years of experience, passionate about creating intuitive and efficient interfaces. I love working with modern technologies and building solutions that make a positive impact. 🚀
 
 ## 🌟 About me
 - 🎯 Frontend Developer specialized in Angular and Angular Material.
@@ -22,35 +22,48 @@ I'm a frontend developer with over 4 years of experience, passionate about creat
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
+<!-- 
 ## 📊 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=erick-ch&layout=compact&theme=radical)
 
 ![Erick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erick-ch&show_icons=true&theme=radical)
+-->
 
 ## 🔥 My Public Repositories
 
-[![My Repositories](https://github-readme-stats.vercel.app/api/pin/?username=erick-ch&repo=NexBai&theme=radical)](https://github.com/erick-ch/NexBai)
+<div align="center">
+  
+[![Dashboard Country](https://github-readme-stats.vercel.app/api/pin/?username=enciendecreatividad&repo=dashboard_country&theme=radical)](https://github.com/enciendecreatividad/dashboard_country)
+[![List of Tasks](https://github-readme-stats.vercel.app/api/pin/?username=enciendecreatividad&repo=list_of_tasks&theme=radical)](https://github.com/enciendecreatividad/list_of_tasks)
 
-[![My Repositories](https://github-readme-stats.vercel.app/api/pin/?username=erick-ch&repo=EleBa&theme=radical)](https://github.com/erick-ch/EleBa)
+[![Timer](https://github-readme-stats.vercel.app/api/pin/?username=enciendecreatividad&repo=timer&theme=radical)](https://github.com/enciendecreatividad/timer)
+[![Chronometer](https://github-readme-stats.vercel.app/api/pin/?username=enciendecreatividad&repo=chronometer&theme=radical)](https://github.com/enciendecreatividad/chronometer)
+
+[![Clock](https://github-readme-stats.vercel.app/api/pin/?username=enciendecreatividad&repo=clock&theme=radical)](https://github.com/enciendecreatividad/clock)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=enciendecreatividad&repo=calculator&theme=radical)](https://github.com/enciendecreatividad/calculator)
+
+</div>
+
 
 ## 🎬 Latest Videos on My Channel
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@enciendetucreatividad9879)
 
 ### 📺 My Latest Videos
+<div align="center">
 
-[![How to create an API with ASP.NET Core from scratch](https://img.youtube.com/vi/-xQUWPOtSV0/hqdefault.jpg)](https://www.youtube.com/watch?v=-xQUWPOtSV0)
+<a href="https://www.youtube.com/watch?v=-xQUWPOtSV0"><img src="https://img.youtube.com/vi/-xQUWPOtSV0/hqdefault.jpg" width="300" /></a>
+<a href="https://www.youtube.com/watch?v=cBHyWQNK0Zc&t=665s"><img src="https://img.youtube.com/vi/cBHyWQNK0Zc/hqdefault.jpg" width="300" /></a>
+<a href="https://www.youtube.com/watch?v=M6QBwPmwo6E"><img src="https://img.youtube.com/vi/M6QBwPmwo6E/hqdefault.jpg" width="300" /></a>
 
-[![How to integrate Angular with Firebase and complete CRUD](https://img.youtube.com/vi/cBHyWQNK0Zc/hqdefault.jpg)](https://www.youtube.com/watch?v=cBHyWQNK0Zc&t=665s)
-
-[![Complete Project: Expense Tracker in Angular and Material](https://img.youtube.com/vi/M6QBwPmwo6E/hqdefault.jpg)](https://www.youtube.com/watch?v=M6QBwPmwo6E)
+</div>
 
 ## 💬 Interested in collaborating or chatting?
 
 📩 **Contact me:**
-- **LinkedIn:** [Erick](https://www.linkedin.com/in/erick)
-- **Email:** erick.dev@gmail.com
+- **LinkedIn:** [Erick](https://www.linkedin.com/in/erick-chambi/)
+<!-- - **Email:** erick.dev@gmail.com -->
 
 ✨ _Always seeking new challenges and opportunities to grow._
 
