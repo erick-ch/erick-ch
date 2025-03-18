@@ -29,6 +29,24 @@ I'm a web developer with over 4 years of experience, passionate about creating i
 
 ![Erick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erick-ch&show_icons=true&theme=radical)
 -->
+## 🚀 My Startups
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+<div>
+  <a href="https://eleba.netlify.app/" target="_blank"><img src="./assets/eleba-preview.webp" alt="EleBa - Manage your finances" width="400"></a>
+  <h2>EleBa</h2>
+  <p>SaaS for simplified financial management of small and medium businesses.</p>
+</div>
+
+<div>
+  <a href="https://nexbai-landing.vercel.app/" target="_blank">
+  <img src="./assets/nexbai-preview.webp" alt="NexBai - Smart Auctions" width="400"></a>
+  <h2>NexBai</h2>
+  <p>Auction platform to help users find the best products at the right price.</p>
+</div>
+
+</div>
 
 ## 🔥 My Public Repositories
 
