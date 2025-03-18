@@ -34,16 +34,16 @@ I'm a web developer with over 4 years of experience, passionate about creating i
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 <div>
-  <a href="https://eleba.netlify.app/" target="_blank"><img src="./assets/eleba-preview.webp" alt="EleBa - Manage your finances" width="400"></a>
-  <h2>EleBa</h2>
+  <h3>EleBa</h3>
   <p>SaaS for simplified financial management of small and medium businesses.</p>
+  <a href="https://eleba.netlify.app/" target="_blank"><img src="./assets/eleba-preview.webp" alt="EleBa - Manage your finances" width="400"></a>
 </div>
 
 <div>
+  <h3>NexBai</h3>
+  <p>Auction platform to help users find the best products at the right price.</p>
   <a href="https://nexbai-landing.vercel.app/" target="_blank">
   <img src="./assets/nexbai-preview.webp" alt="NexBai - Smart Auctions" width="400"></a>
-  <h2>NexBai</h2>
-  <p>Auction platform to help users find the best products at the right price.</p>
 </div>
 
 </div>
